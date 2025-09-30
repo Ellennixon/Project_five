@@ -1,0 +1,81 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+
+body{
+	background:linear-gradient(to right, #ffb3d9,#ffff99);
+	text-align:center;
+	padding:20px;
+}
+
+.heading{
+	font-size:50px;
+	font-weight:bold;
+	color:#2c2c2c;
+	margin-bottom:20px;
+}
+
+.menu{
+	border:3px solid black;
+	border-radius:10px;
+	background-color:#fffae6;
+	margin-bottom:20px;
+}
+
+.subhead{
+	font-size:32px;
+	font-family:verdana;
+	text-decoration:underline;
+}
+
+.content{
+	display:inline-block;
+	margin:20px 60px;
+	padding:10px;
+	height:190px;
+	width:220px;
+	text-align:center;
+	border-radius:8px;
+}
+
+img{
+	height:100px;
+	width:100px;
+	border-radius:50%;
+}
+
+.price{
+	margin:10px auto;
+}
+
+.item{
+	font-size:18px;
+	font-weight:bold;
+	background-color:#d9d9d9;
+	border-radius:10px;
+	padding:3px;
+	
+}
+
+.one{
+	background-color:#ff80b3;
+	border:3px solid #b30000;
+}
+
+
+.two{
+	background-color:#99ff99;
+	border:3px solid #006600;
+}
+
+.three{
+	background-color:#99ccff;
+	border:3px solid #0066cc;
+}
+
+.four{
+	background-color:#ffffcc;
+	border:3px solid #ffd11a;
+}
